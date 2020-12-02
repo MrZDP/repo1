@@ -1,7 +1,7 @@
-11111
-22222
-33333
-44444 edit by mater 
-55555
-66666
+#include "stdio.h"
 
+int main()
+{
+	printf("hello world\r\n");
+	return 1;
+}
